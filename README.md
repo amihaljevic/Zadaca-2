@@ -1,6 +1,6 @@
 # Zadaca 2
 
-## Stranica na temu "Knjiga#. 
+## Stranica na temu "Knjiga". 
 
 > "Knjiga" je druga tema za zadaću. 
 > Za izradu je bilo potrebno osnovno znanje html-a i css-a.
